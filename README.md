@@ -15,7 +15,7 @@ I am versatilist and easily adapt to different hats (Full Stack Web Developer �
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Liaxum?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/romain-texier-b09874199)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZwfYx3vcutxHRkNJKPTRLsvxTp3VjJl8/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1e-A84cLJjOSzK2BCRmyEkKMo0zZ4fH8R/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read comics and fiction novels. <!-- Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
 <!--- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database) -->
 
