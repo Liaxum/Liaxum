@@ -2,7 +2,6 @@
 
 <a href='www.linkedin.com/in/romain-texier-b09874199'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-<br/>
 
 
 I am versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -13,13 +12,13 @@ I am versatilist and easily adapt to different hats (Full Stack Web Developer �
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Vibin-App-mobile**
-<!--- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database) -->
 - 🌱 &nbsp; I’m currently learning Flutter;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Liaxum?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/romain-texier-b09874199)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1KYmHzOvJeOu2KNwRqIZBuXBmwPk1s_nx/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read comics and fiction novels. <!-- Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
+<!--- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database) -->
 
 <br>
 
